@@ -4,6 +4,5 @@
     copy:
       src: ./deployment.yaml
       dest: /root/
-  - name: create a deployment.yaml
-    command: kubectl apply -f /root/deployment.yaml
+ 
   
