@@ -5,7 +5,7 @@ metadata:
 spec:
   containers:
     - name: hello-world-container
-      image: rameshaws2012/tcs_project
+      image: rameshaws2012/moonstone
       ports:
         - name: web
           containerPort: 8081
